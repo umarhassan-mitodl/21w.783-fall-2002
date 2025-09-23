@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Technical Writing"
+    ]
+  ],
+  "legacy_uid": "7dcfce8c-6651-c29d-0d9d-4b37ad2ea776",
+  "instructors": {
+    "content": [
+      "2da4ec0c-5f68-ee72-df98-a757cbf82016"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c5906998-86ef-7d59-8021-2cfbac70ce85",
+    "website": "21w-783-science-and-engineering-writing-for-phase-ii-fall-2002"
+  },
+  "course_title": "Science and Engineering Writing for Phase II",
+  "course_description": "21W.783 is a series of seminars focusing on common writing problems faced by professional engineers and scientists. Participants will tune up their writing skills and prepare a pair of technical documents under the guidance of the instructor. The writing assignments focus on a single topic of the student's choosing, preferably one for which the necessary research has been done, or is in the process of being done. In addition to the writing component, students will deliver an oral presentation based on the written work.\n",
+  "department_numbers": [
+    "CMS-W"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21W.783",
+  "course_image_thumbnail": {
+    "content": "71f4f59d-8a71-decb-1f83-a141509e69c6",
+    "website": "21w-783-science-and-engineering-writing-for-phase-ii-fall-2002"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "ff96ef0f-89c4-40af-bd63-f998dbbff439",
+  "site_short_id": "21w.783-fall-2002",
+  "site_url_path": "courses/21w-783-science-and-engineering-writing-for-phase-ii-fall-2002",
+  "title": "Course Metadata"
+}
