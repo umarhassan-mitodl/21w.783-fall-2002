@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: Guidelines and tips on giving a oral presentation.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 parent_title: Study Materials

@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: Guidelines and tips on technical writing.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 parent_title: Study Materials
@@ -80,7 +82,7 @@ Proposal Structure
 
 Then the document falls off the edge of the world; there is no conclusion. The structure of the proposal is governed by how it is read. Most only read the summary.
 
-{{% resource_link "a8ed894e-6238-452a-8edc-6c3c7af91800" "sample proposal" %}} (Courtesy of James Mahoney and Randy Knaggs. Used with permission.)
+[sample proposal](http://akbar.marlboro.edu/~mahoney/DropTest/DropProposal.html) (Courtesy of James Mahoney and Randy Knaggs. Used with permission.)
 
 The report is very similar to the proposal, but includes the results that follow the methods. With results, a conclusion can be drawn.
 

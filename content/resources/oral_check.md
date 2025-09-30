@@ -4,6 +4,8 @@ description: A checklist for evaluating an oral presentation.
 file: /courses/21w-783-science-and-engineering-writing-for-phase-ii-fall-2002/1230d792edcb936536b5501ad61cdf2f_oral_check.pdf
 file_size: 101478
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

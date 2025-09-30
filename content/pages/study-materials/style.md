@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: Guidelines and tips on avoiding style problems in technical writing.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 parent_title: Study Materials
@@ -377,7 +379,7 @@ This thesis develops and verifies a model for spring loaded camming devices.
 {{< anchor "pun" >}}{{< /anchor >}}Punctuation
 ----------------------------------------------
 
-If punctuation makes you feel uneasy because you don't know the rules, get a {{% resource_link "ff3f760f-afc2-421b-8508-aaa61cdda3ec" "standard style guide" %}} and learn the rules. If you think that commas go where you naturally pause in a sentence, get a standard style guide and learn the rules.
+If punctuation makes you feel uneasy because you don't know the rules, get a [standard style guide](http://mit.edu/afs/athena/course/21/21.guide/) and learn the rules. If you think that commas go where you naturally pause in a sentence, get a standard style guide and learn the rules.
 
 Two things make writers who know punctuation rules feel uneasy about punctuation:
 
