@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides a subject description and information
   on course meeting times, instructional materials, teaching approach, grading, and
   assessment of writing.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: ''
 title: Syllabus
